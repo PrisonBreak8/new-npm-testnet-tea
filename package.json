@@ -28,6 +28,12 @@
 		"react": "^18.2.0",
 		"react-dom": "^18.2.0",
 		"rollup": "^4.12.0",
+		"terser-webpack-plugin": "latest",
 		"tslib": "^2.6.2"
+	},
+	"dependencies": {
+		"gulp-cheerio": "^1.0.0",
+		"isotope-layout": "^3.0.6",
+		"simplebar": "latest"
 	}
 }
