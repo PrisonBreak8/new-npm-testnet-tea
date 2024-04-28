@@ -34,6 +34,7 @@
 	"dependencies": {
 		"gulp-cheerio": "^1.0.0",
 		"isotope-layout": "^3.0.6",
+		"new-npm-testnet-tea": "^1.0.3",
 		"simplebar": "latest"
 	}
 }
