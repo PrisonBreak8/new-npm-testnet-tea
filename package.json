@@ -2,7 +2,7 @@
 	"name": "new-npm-testnet-tea",
 	"author": "Artur",
 	"license": "MIT",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"description": "package for test nen tea",
 	"type": "module",
 	"main": "dist/index.js",
